@@ -13,7 +13,7 @@ export const HeaderSection = styled.header`
 export const HeaderTitle = styled.h1`
     margin: 0;
     padding: 15px 0;
-    color: #64DFDF;
+    color: #ca1ca0;
     font-size: 30px;
     font-weight: 700;
     text-align: center;
@@ -47,7 +47,7 @@ export const HeaderSearchButton = styled.button`
     height: 30px;
     border-radius: 15px;
     border: none;
-    background: #64DFDF;
+    background: #ca1ca0;
     margin-left: 10px;
     display: flex;
     align-items: center;

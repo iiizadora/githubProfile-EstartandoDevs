@@ -5,7 +5,7 @@ export const Section = styled.section`
     height: 400px;
     background: rgba(255,255,255,.95);
     border-radius: 10px;
-    border-bottom: 10px solid #FF7A00;
+    border-bottom: 10px;
     margin-top: 15px;
     
     @media (max-width: 430px) {
@@ -17,7 +17,7 @@ export const Title = styled.h1`
     font-size: 20px;
     font-weight: 700;
     margin-top: 10px;
-    color: #444;
+    color: #ca1ca0;
     width: 100%;
     text-align: center;
     height: 30px;
