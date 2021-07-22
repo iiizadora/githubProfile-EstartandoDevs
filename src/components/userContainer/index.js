@@ -8,4 +8,4 @@ const UserContainer = props => (
   </Section>
 );
 
-export default UserContainer;
+export {UserContainer} ;

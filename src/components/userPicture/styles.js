@@ -13,5 +13,5 @@ export const ProfilePicture = styled.img`
     width:130px;
     height:130px;
     border-radius: 50%; 
-    border: 8px solid #fff;
+    border: 8px solid #64DFDF;
     `

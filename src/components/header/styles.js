@@ -13,7 +13,7 @@ export const HeaderSection = styled.header`
 export const HeaderTitle = styled.h1`
     margin: 0;
     padding: 15px 0;
-    color: #E5E5E5;
+    color: #64DFDF;
     font-size: 30px;
     font-weight: 700;
     text-align: center;
@@ -33,7 +33,6 @@ export const HeaderInput = styled.input`
     border-radius: 15px;
     border: none;
     padding: 0 16px;
-    color: #444;
     transition: .4s ease;
 
     &:focus {
@@ -48,12 +47,12 @@ export const HeaderSearchButton = styled.button`
     height: 30px;
     border-radius: 15px;
     border: none;
-    background: #FF7A00;
+    background: #64DFDF;
     margin-left: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #FFF;
+    color: #ffffff;
     transition: ease .3s;
 
     &:hover {

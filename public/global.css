@@ -7,6 +7,9 @@
 input, button {
   border: none;
   outline: none;
+  color: #444;
+  font-size: 18px;
+  font-weight:700;
 }
 
 body {
